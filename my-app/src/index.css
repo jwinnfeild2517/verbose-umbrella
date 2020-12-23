@@ -8,7 +8,7 @@ body {
   place-items: center;
   background: linear-gradient(white, #e8d1c5ff, #eddcd2ff, #fff1e6ff, #edede8ff);
   font-size: 18px;
-  font-family: "Viaoda Libre", cursive;
+  font-family: 'Michroma', sans-serif;
 }
 
 div.counter-container{
